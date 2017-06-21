@@ -44,8 +44,7 @@ html, body {
     display: flex;
     min-width: 100%;
     min-height: 1000px;
-    background-image: url(https://c4.staticflickr.com/3/2851/10764957835_4ba6354087_k.jpg);
-    background-repeat: no-repeat;
+    background: #eaeaea url(../images/bg.jpg) repeat-x top left;
     background-size: cover;
     opacity: 0.9;
 }

@@ -5,7 +5,7 @@ const Home = () =>
     <div className="home">
         <MainMenu className="home-page-menu"/>
         <div id="homebox">
-            <h1>Rock Appreciation Society</h1>
+            <h1>Beaches Appreciation Society</h1>
         </div>
     </div>;
 
